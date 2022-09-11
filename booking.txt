@@ -1,0 +1,5 @@
+bramastra 250 50
+bahubali 300 100
+Interstellar 450 50
+Tenet 500 60
+spider-man 500 20
